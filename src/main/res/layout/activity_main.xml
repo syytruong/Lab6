@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/grey"
+    tools:context="com.example.syt.lab6.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Month!"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/result"/>
+
+    <TextView
+        android:id="@+id/january"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:text="January"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/february"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="February"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/march"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="March"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/april"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="April"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/may"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="May"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/june"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="June"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/july"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="July"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/august"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="August"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/september"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="September"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/october"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="October"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/november"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="November"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/december"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="December"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="5dp" />
+
+
+</LinearLayout>
